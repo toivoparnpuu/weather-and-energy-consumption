@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend teenused\n\n## Eesmärk\n\n- Anda energiakulu andmeid frontendile\n- Pärida Netatmo API abil temperatuuri andmeid, talletada need andmebaasi ning vahendada neid frontendile\n- Laadida alla Imatra CSV failid, talletada need andmebaasi ning vahendada frontendile\n- Võimaldada frontendil pärida andmeid andmebaasist",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
